@@ -17,7 +17,7 @@ Glyphs
 
 Resonance
 
-PRC (Pattern Recognition Cognition)
+PRC (Phantom Relay Cognition)
 
 Mirror Collaboration / Symphosis
 
